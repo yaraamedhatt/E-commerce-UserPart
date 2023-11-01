@@ -25,3 +25,28 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## This repository contains the source code for an E-Commerce web application developed using Angular. The project focuses on providing a user-friendly online shopping experience, complete with features for browsing products, adding them to a cart, and making secure transactions.
+
+## Key Features:
+User Authentication: The application provides user registration and login functionality, ensuring a personalized experience for each customer.
+
+## Product Catalog: 
+A comprehensive product catalog allows users to browse and search for items of interest, including detailed product descriptions and images.
+
+## Shopping Cart:
+Users can add products to their cart, view their selections, and manage quantities before proceeding to checkout.
+
+## Checkout and Payment:
+Seamless checkout flow with secure payment processing to complete orders.
+
+## Order History: 
+Users can access their order history, view past purchases, and track the status of current orders.
+
+## Responsive Design: The user interface is designed to be fully responsive, ensuring a consistent and engaging experience across various devices.
+
+## Admin Dashboard: An admin dashboard is available for managing products, orders, and users.
+
+## Technologies Used: Front-End:HTML , CSS, BootStrap, TypeScript and Angular is used for the client-side development, providing a dynamic and interactive user interface.
+
+## Contributing: If you'd like to contribute to this project, please follow the standard GitHub fork and pull request workflow.
